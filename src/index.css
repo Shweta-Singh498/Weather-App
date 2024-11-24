@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: linear-gradient(45deg, #FF5733, #33FF57, #3357FF);
+}
+
